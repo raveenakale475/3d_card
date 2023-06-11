@@ -1,0 +1,20 @@
+.card {
+  width: 250px;
+  height: 254px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  color: rgb(255, 166, 1);
+  margin: auto;
+  background: orangered;
+  border-radius: 50px;
+  margin-top: 100px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    Orgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    Orgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset,
+    Orgba(0, 0, 0, 0.06) 0px 2px 1px, Orgba(0, 0, 0, 0.09) 0px 4px 2px,
+    Orgba(0, 0, 0, 0.09) 0px 8px 4px, Orgba(0, 0, 0, 0.09) 0px 16px 8px,
+    Orgba(0, 0, 0, 0.09) 0px 32px 16px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
